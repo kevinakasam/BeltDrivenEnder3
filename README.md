@@ -1,5 +1,6 @@
 # BeltDrivenEnder3
 All parts including Voron files for the Belt Driven Ender 3 V3.
+![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg?raw=true)
 
 For more information and BOM/partlist see InfoV2.txt
 Please ignore the warping of the cube, my heatbed was dead ^^
