@@ -45,7 +45,7 @@ BOM (die Teile vom Ender werden nicht aufgeführt, Schrauben Muttern etc. werden 
 3x GT2 20 8mm Pulley (bei einem muss der Flansch entfernt werden: https://www.youtube.com/watch?v=RKpxDKYOJYs)
 2 Meter GT2 6mm Belt
 1x GT2 Belt Loop (6mm wide) - 188mm http://s.click.aliexpress.com/e/ripvAfVQ (Affiliate Link from the Voron Guys)
-0.5 Meter Welle (es reicht ein günstiger 8mm Aluminiumstab aus dem Baumarkt, die Welle muss später gekürzt werden) (ihr könnt ZUR NOT auch die Z Spindel verwenden)
+0.4 Meter Welle (es reicht ein günstiger 8mm Aluminiumstab aus dem Baumarkt, die Welle muss später gekürzt werden) (ihr könnt ZUR NOT auch die Z Spindel verwenden)
 
 
 Printed Parts
@@ -120,7 +120,7 @@ BOM (the parts of the ender are not listed, nuts and bolts etc. are reused)
 3x GT2 20 8mm Pulley (Left,right, Voron pulley. The Motor Pulley is still the 16T 5mm one!!!) (for one puley you have to remove the flange): https://www.youtube.com/watch?v=RKpxDKYOJYs)
 2 Meter GT2 6mm Belt
 1x GT2 Belt Loop (6mm wide) - 188mm http://s.click.aliexpress.com/e/ripvAfVQ (Affiliate Link from the Voron Guys)
-0.5 Meter rod (a cheap 8mm aluminum rod from the hardware store is enough) (you can also use the Z leadscrewbut thats not good for leadscreaw)
+0.4 Meter rod (a cheap 8mm aluminum rod from the hardware store is enough) (you can also use the Z leadscrewbut thats not good for leadscreaw)
 
 
 Printed Parts
