@@ -1,4 +1,5 @@
 # BeltDrivenEnder3
+This Thing is still in progress. Please read the comments for more Informations. Feel free to contact me on Discord: kevinakasam#2097
 All parts including Voron files for the Belt Driven Ender 3 V3.
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg?raw=true)
 
