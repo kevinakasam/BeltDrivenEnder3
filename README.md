@@ -2,7 +2,6 @@
 This Thing is still in progress. Please read the comments for more Informations. Feel free to contact me on Discord: kevinakasam#2097
 All parts including Voron files for the Belt Driven Ender 3 V3.
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg?raw=true)
-![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/IMG_3939.JPEG?raw=true)
 
 For more information and BOM/partlist see InfoV2.txt
 Please ignore the warping of the cube, my heatbed was dead ^^
@@ -22,3 +21,4 @@ So if you have all these problems with the x-axis, this is a good solution.
 Version 3 adds Tensioner for tightening the belts. V3 is identical to V2, except for LeftV3, RightV3, TensionerClampV3 and TensionerBlockV3.
 The Uploaded STL are from the V2(the same as in V2.zip). You can find all the old parts in V1.zip.
 Good luck and happy printing!
+![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/IMG_3939.JPEG?raw=true)
