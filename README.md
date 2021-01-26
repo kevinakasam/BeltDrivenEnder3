@@ -1,11 +1,11 @@
 # BeltDrivenEnder3
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg?raw=true)
 
-This Thing is still in progress. Please read the comments for more Informations. Feel free to contact me on Discord: kevinakasam#2097
+This Thing is still in progress.
+Readme and BOM will be updated soon!
+Please read the comments for more Informations.
 All parts including Voron files for the Belt Driven Ender 3 V3.
 
-For more information and BOM/partlist see InfoV2.txt
-Please ignore the warping of the cube, my heatbed was dead ^^
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
