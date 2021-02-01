@@ -31,3 +31,7 @@ Good luck and happy printing!
 
 
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/IMG_3939.JPEG?raw=true)
+
+![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RollerVersion.png?raw=true)
+
+![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RailVersion.png)
