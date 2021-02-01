@@ -32,6 +32,8 @@ Good luck and happy printing!
 
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/IMG_3939.JPEG?raw=true)
 
+# V-Wheel Version
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RollerVersion.png?raw=true)
 
+# MGN Rail Version
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RailVersion.png)
