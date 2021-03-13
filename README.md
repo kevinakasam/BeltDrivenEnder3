@@ -1,7 +1,7 @@
 # BeltDrivenEnder3
 ---
 Hey :)
-Creality is organizing a Creator Contest and currently the voting is going on. I would be very grateful if you could take a few minutes and vote for my entry. You have to use the Creality Cloud App for this.
+Creality is organizing a Creator Contest and currently the voting is going on. I would be very grateful if you could take a few minutes and vote for my entry. You have to use the Creality Cloud App for this (maybe you have to search for the Creality DIY Group by yourself. You can vote by click on the heart).
 https://share.creality.com/creality-cloud/share-content/1127
 
 ---
