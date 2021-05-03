@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg?raw=true)
 
-##Please read Instructions and BOM for more informations.
+## Please read Instructions and BOM for more informations.
 
 Intructions for MGN Version will be updated soon!
 Feel free to contact me on Discord: kevinakasam#2097
@@ -22,12 +22,13 @@ So if you have all these problems with the x-axis, this is a good solution.
 Good luck and happy printing!
 
 ---
-##THANK YOU VERY MUCH!
+## THANK YOU VERY MUCH!
 I would like to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
+
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg?raw=true)
 
 ---
-###Changelog:
+### Changelog:
 02.05.2021: Added Left and Right V3.2. Tensioner were missaligned by ~0.5mm. Thanks to Zardozer for the hint! If youre using the old V3.1 its totally fine. I'm using them as well:D
 
 14.02.2021: Changes for the MGN Version!! LeftV1 added. Please print 1_Left and 1_LeftV1. I would appreciate feedback for Left or LeftV1. I have created the files with the official CAD, but the M4 screws differ in the position by 2mm. Please print both versions and tell me which fits, thanks:)
