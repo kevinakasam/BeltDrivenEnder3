@@ -23,7 +23,7 @@ Good luck and happy printing!
 
 ---
 ## THANK YOU VERY MUCH!
-I would like to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
+I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
 
 ![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg?raw=true)
 
