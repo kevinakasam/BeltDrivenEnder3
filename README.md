@@ -1,10 +1,10 @@
 # BeltDrivenEnder3
 
-![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg?raw=true)
+<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg" width="700">
 
 ---
 ## Finally the video tutorial is finished!
-[![IMAGE ALT TEXT HERE](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/YT_Video.JPG)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
+[![Video Tutorial](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/YT_Video.JPG)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
 https://youtu.be/oUdoJUs8Zcg
 
 ## Please read Instructions and BOM for more informations.
@@ -30,20 +30,25 @@ Good luck and happy printing!
 ## THANK YOU VERY MUCH!
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
 
-![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg?raw=true)
+<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="450">
+
 
 ---
 ### Changelog:
+06.05.2021: Added Rail Version for Ender 3 V2. Bowden Version tested. Thanks to Jon!
+
+04.05.2021: Added a Video Tutorial.
+
 02.05.2021: Added Left and Right V3.2. Tensioner were missaligned by ~0.5mm. Thanks to Zardozer for the hint! If youre using the old V3.1 its totally fine. I'm using them as well:D
 
 14.02.2021: Changes for the MGN Version!! LeftV1 added. Please print 1_Left and 1_LeftV1. I would appreciate feedback for Left or LeftV1. I have created the files with the official CAD, but the M4 screws differ in the position by 2mm. Please print both versions and tell me which fits, thanks:)
 
-26.02.2021: Added Bowdenversion. Untested!!
+26.02.2021: Added Bowdenversion.
 
 ---
 
 # V-Wheel Version
-![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RollerVersion.png?raw=true)
+<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RollerVersion.png" width="700">
 
 # MGN Rail Version
-![alt text](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RailVersion.png)
+<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RailVersion.png" width="700">
