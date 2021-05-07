@@ -36,7 +36,7 @@ I want to thank everyone who has helped me over the last months with feedback, s
 
 ---
 ### Changelog:
-06.05.2021: Added Rail Version for Ender 3 V2. Bowden Version tested. Thanks to Jon!
+06.05.2021: Modified MGN Version fits now for Ender 3 (Pro) and Ender 3 V2. Bowden Version tested. Thanks to Jon!
 
 04.05.2021: Added a Video Tutorial.
 
