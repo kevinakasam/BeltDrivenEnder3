@@ -36,6 +36,10 @@ I want to thank everyone who has helped me over the last months with feedback, s
 
 ---
 ### Changelog:
+02.06.2020: Added Left and Right V3.3. Changed the design of the lower clamp profile. If youre using the 3.1 or 3.2 that's totally fine;)
+
+02.06.2020: Updated the 80T Gear on GitHub. reduced the outer diameter a bit so theres a bigger gap to the profile. Thanks to Regulus!
+
 06.05.2021: Modified MGN Version fits now for Ender 3 (Pro) and Ender 3 V2. Bowden Version tested. Thanks to Jon!
 
 04.05.2021: Added a Video Tutorial.
