@@ -21,9 +21,9 @@ Everybody bears the risks of a modification himself.
 All parts can be modified as you like.
 
 First things first:
-My Ender 3 always had problems in the Z-axis, which were caused by a bent spindle. Therefore I decided to convert the Ender to belts in Z as well.
-This conversion also solves the problem of a hanging x-axis on the right side. Because of the two belts, the two sides not only run synchronously, but can also be adjusted very precisely.
-So if you have all these problems with the x-axis, this is a good solution.
+My Ender 3 always had problems with the Z-axis, which were caused by a bent and misaligned spindle. Therefore I decided to convert the Ender to belts in Z as well.
+This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts both sides run synchronously and can also be adjusted very precisely.
+So if you have these problems with the z-axis/x-axis, this is a good solution.
 
 Good luck and happy printing!
 
@@ -55,6 +55,8 @@ I want to thank everyone who has helped me over the last months with feedback, s
 14.02.2021: Changes for the MGN Version!! LeftV1 added. Please print 1_Left and 1_LeftV1. I would appreciate feedback for Left or LeftV1. I have created the files with the official CAD, but the M4 screws differ in the position by 2mm. Please print both versions and tell me which fits, thanks:)
 
 26.02.2021: Added Bowdenversion.
+
+26.02.2021: Started Changelog.
 
 ---
 
