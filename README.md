@@ -36,6 +36,10 @@ I want to thank everyone who has helped me over the last months with feedback, s
 
 ---
 ### Changelog:
+17.08.2021: Made some small tolerance changes to the rotated transmission and the inner M3 parts.
+
+31.07.2021: I made a mistake and uploaded the wrong files for "LeftTop" and RightTop". If you downloaded the files from Thingiverse between 15.06.2021 and 31.07.2021, please download the latest version. I am very sorry! Thanks to mbarryton for the hint!
+
 15.06.2021: **Important!!!** Both Versions (rotated and unrotated) are compatible now. Both versions now have the identical LeftTop and RightTop (the one from the rotated version).
 
 15.06.2021: I have added a version of both transmissions that include a ball bearing. So the rod is supported in the middle by another ball bearing.
