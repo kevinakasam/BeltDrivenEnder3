@@ -1,16 +1,12 @@
 # BeltDrivenEnder3
 
-<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/BD_V3.jpg" width="700">
+<img src="Pictures/BD_V3.jpg" width="450"/> <img src="Pictures/BDE.JPEG" width="450"/>
 
 ---
-## Finally the video tutorial is finished!
-[![Video Tutorial](https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/YT_Video.JPG)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
-
-https://youtu.be/oUdoJUs8Zcg
 
 ## Please read Instructions and BOM for more informations.
 
-Intructions for MGN Version will be updated soon!
+Written Intructions will be updated soon! Please use my videos in the meantime.
 Feel free to contact me on Discord: kevinakasam#2097
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
@@ -21,18 +17,32 @@ Everybody bears the risks of a modification himself.
 All parts can be modified as you like.
 
 First things first:
-My Ender 3 always had problems with the Z-axis, which were caused by a bent and misaligned spindle. Therefore I decided to convert the Ender to belts in Z as well.
+My Ender 3 always had problems with the Z-axis, which were caused by a bent and misaligned leadscrew. Therefore I decided to convert the Ender to belts in Z as well.
 This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts both sides run synchronously and can also be adjusted very precisely.
 So if you have these problems with the z-axis/x-axis, this is a good solution.
 
 Good luck and happy printing!
 
----
 ## THANK YOU VERY MUCH!
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="450">
 
+## Print Showcase
+<img src="Pictures/Benchy.jpg" width="450"/> <img src="Pictures/Benchy_1.jpg" width="450"/>
+<img src="Pictures/Benchy_Blue.png" width="450"/> <img src="Pictures/Benchy_error.jpg" width="450"/>
+<img src="Pictures/ABS.JPEG" width="450"/> <img src="Pictures/IMG_3936.JPEG" width="450"/>
+
+
+
+## Finally the video tutorials are finished!
+[![Video Tutorial](Pictures/thumbnailwheel.jpg)](https://youtu.be/bxTwFCPEIgg)
+
+https://youtu.be/bxTwFCPEIgg
+
+[![Video Tutorial](Pictures/ThumbnailMGN.jpg)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
+
+https://youtu.be/oUdoJUs8Zcg
 
 ---
 ### Changelog:
