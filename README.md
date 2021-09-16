@@ -29,9 +29,9 @@ I want to thank everyone who has helped me over the last months with feedback, s
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="450">
 
 ## Print Showcase
-<img src="Pictures/Benchy.jpg" width="450"/> <img src="Pictures/Benchy_1.jpg" width="450"/>
-<img src="Pictures/Benchy_Blue.png" width="450"/> <img src="Pictures/Benchy_error.jpg" width="450"/>
-<img src="Pictures/ABS.JPEG" width="450"/> <img src="Pictures/IMG_3936.JPEG" width="450"/>
+<img src="Pictures/Benchy.jpg" width="400"/> <img src="Pictures/Benchy_1.jpg" width="400"/>
+<img src="Pictures/Benchy_Blue.png" width="400"/> <img src="Pictures/Benchy_error.jpg" width="400"/>
+<img src="Pictures/ABS.JPEG" width="400"/> <img src="Pictures/IMG_3936.JPEG" width="400"/>
 
 
 
