@@ -1,11 +1,11 @@
 # BeltDrivenEnder3
 
-<img src="Pictures/BD_V3.jpg" width="400"/> <img src="Pictures/BDE.JPEG" width="400"/>
+<img src="Pictures/BD_V3.jpg" width="400"/> <img src="Pictures/Top_remix.jpeg" width="400"/>
 
 ---
 
 ## Please read Instructions and BOM for more informations.
-
+Top_remix.jpeg
 Written Intructions will be updated soon! Please use my videos in the meantime.
 Feel free to contact me on Discord: kevinakasam#2097
 
