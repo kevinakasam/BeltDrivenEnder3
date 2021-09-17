@@ -5,7 +5,7 @@
 ---
 
 ## Please read Instructions and BOM for more informations.
-Top_remix.jpeg
+
 Written Intructions will be updated soon! Please use my videos in the meantime.
 Feel free to contact me on Discord: kevinakasam#2097
 
