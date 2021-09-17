@@ -1,6 +1,6 @@
 # BeltDrivenEnder3
 
-<img src="Pictures/BD_V3.jpg" width="450"/> <img src="Pictures/BDE.JPEG" width="450"/>
+<img src="Pictures/BD_V3.jpg" width="400"/> <img src="Pictures/BDE.JPEG" width="400"/>
 
 ---
 
