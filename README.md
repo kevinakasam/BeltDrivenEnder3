@@ -53,22 +53,22 @@ https://youtu.be/oUdoJUs8Zcg
 
 ## FAQ 
 ### Do I need to change the firmware?
-NO! You do not have to change anything in the firmware. This modification work with the stock board and stock firmware.
+NO! You do not have to change anything in the firmware. This modification works with the stock board and stock firmware.
 
 ### Can I use PLA to print the parts?
 Yes and no. All parts should work with PLA, except the motor tensioner arm. The motor has to hold more weight now, so the motor could get warm. Since PLA deforms at ~40°C you should keep an eye on your motor (see troubleshooting). Because of that I would recommend PETG. When you're printing inside an enclosure you should use ABS. Try Esun ABS+, super easy to print, and much stronger than PETG.
 
-### Is this mod alsocompatible with the Ender 2 V2/Pro etc?
-YES! You can use this mod with all ENder 3 versions.
+### Is this mod also compatible with the Ender 3 V2/Pro etc?
+YES! You can use this mod with all Ender 3 versions.
 
 ### Can use this for my Creality CR printer?
 View the makes on Thingiverse. Some of you made a CR build so I thing it should fit. Feel free to give some feedback about that.
 
 ### Do I need a hardened steelrod?
-NO! A cheap aluminium or "normal" steelrod is just fine. There's also a transmission (rotated and unrotated) that hold a bearing, so you have some extra support in the middle. You also could use your leadscrew to minimize the costs.
+NO! A cheap aluminium or "normal" steelrod is just fine. There's also a transmission (rotated and unrotated) that hold a bearing inside, so you have some extra support in the middle of your rod. You also could use your leadscrew to minimize the costs.
 
 ### Dual Z? G34?
-So you want to use two steppers to have an indipendent z axis? Thats possible of course! Just use the tranmission body with the bearing inside and two shorter screws (100mm should fit). This way the tranmissions support the inner end of the rods and the Top parts the outer end (as normal). You also could mirror one transmission body to have a symmetrich setup.
+So you want to use two stepper motors to have an indipendent z axis? Thats possible of course! Just use the tranmission body with the bearing inside and two shorter rods (100mm should fit). This way the two tranmissions support the inner end of each rod and the Top parts the outer end (as normal). You also could mirror one transmission body to have a symmetric setup.
 
 ### I have a special question/ I need a custom version but I'm new to CAD. Can you help me?
 Yes of course! I'm happy to help, so please contact me via Discord (kevinakasam#2097). I'm sure we will find a solution for your problem :)
@@ -78,15 +78,15 @@ Yes of course! I'm happy to help, so please contact me via Discord (kevinakasam#
 Thats a quick fix. Just remove all the pins in you motor connector that goes into the mainboard (like I showed you in my video) and insert them in the opposite order (4321 instead of 1234).
 
 ### My Z motor gets super hot!
-First of all: A warm and slighty hot motor isn't a super bad thing. But you should change that. Try to lower your V-ref/Amps till the motor is hand warm. But be careful to not reduce the current too much, or your motor will lose steps. The stock Z motor is very small so it's a big job for the tiny motor. Don't worry if your motor gets warm.
+First of all: A warm or slighty hot motor isn't a super bad thing. But you should change that. Try to lower your V-ref/Amps till the motor stays hand warm. But be careful to not reduce the current too much, or your motor will lose steps. The stock Z motor is very small so it's a big job for the tiny motor. Don't worry if your motor gets warm.
 
 ### My z axis drops as soon as power off my printer!
-Probably the most asked question, but I can promise that your axis does not have to drop! As already mentioned, the z motor is very small. Therefore the magnetic field that exists in the motor even without current is not very strong. But it is strong enough to keep the axis up.
+Probably the most asked question, but I can promise that your axis does not have to drop! As already mentioned, the z motor is very small. Therefore the magnetic field that exists in the motor even without power isn't very strong. But it's strong enough to keep the axis up.
 #### I don't care, my axis is dropping, what can I do?
-1. You are using the original V-Wheels? Be sure they are properly set up. Turn the eccentric nut until the rollers are in contact with the profile. Put a little tension on the wheels, but not too much! Do not risk a flat spot of your rollers. The tension is correct when they are tight, and you can't turn them with your finger in the same place, but the axis moves when you turn the rollers.
+1. You are using the original V-Rollers? Be sure they are properly set up. Turn the eccentric nut until the rollers are in contact with the profile. Put a little tension on the rollers, but not too much! Do not risk a flat spot of your rollers. The tension is correct when they are tight, and you can't turn them with your finger in the same place, but the axis moves when you turn the rollers.
 2. You have no rollers or your axis is still dropping? Tension your long belts a little more. Increase the tension until your axis stops dropping. Be careful not to break something. But the parts can take a lot of tension. Otherwise, check out my FAQ video about how to tension the belts (THE VIDEO HAS STILL TO BE CREATED).
-3. tension the small belt a bit more as well. But very carefully! Usually the tension only needs to be enough to keep the belt from slipping. But you can increase the tension a little bit. But not too much, otherwise the motor can't turn anymore.
-4. that sounds too complicated? Your motor is also too hot? A solution would be a bigger motor, like the one on the X and Y axis. A bigger motor is able to hold the axis up very easily, with less tension and less heat. But as I said, this is not necessary, it also works with the original motor.
+3. Tension the small looped belt a bit more as well. But very carefully! Usually the tension only needs to be high enough to keep the belt from slipping over the printed wheel. But you can increase the tension a little bit. But not too much, otherwise the motor can't turn anymore.
+4. That sounds too complicated? Your motor is also too hot? A solution would be a bigger motor, like the one on the X and Y axis. A bigger motor is able to hold the axis up very easily, with less tension and less heat. But as I said, this is not necessary, it also works with the original motor.
 
 ---
 ### Changelog:
