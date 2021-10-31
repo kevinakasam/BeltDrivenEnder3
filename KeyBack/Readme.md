@@ -18,3 +18,5 @@ __It is still important to tension the belts properly!
 If the belts are not tightened enough, there will be unclean prints later!__
 So make sure that the KeyBack doesn't mislead you into not tightening the belts enough.
 See my FAQ video on how to properly tension the belts (video coming soon).
+
+You will have to print a new 1_LeftTop_A to use the KeyBack.
