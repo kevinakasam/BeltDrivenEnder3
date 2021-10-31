@@ -27,7 +27,7 @@ Good luck and happy printing!
 1. [Thank you very much!](##thank-you-very-much)
 2. [Print Showcase](##print-showcase)
 3. [Video Tutorials](##finally-the-video-tutorials-are-finished)
-4. [KeyBack](##KeyBack)
+4. [Keybak](##Keybak)
 5. [FAQ](##FAQ)
 6. [Troubleshooting](##troubleshooting)
 7. [Changelog](##changelog)
@@ -52,33 +52,33 @@ https://youtu.be/bxTwFCPEIgg
 
 https://youtu.be/oUdoJUs8Zcg
 
-## KeyBack
-#### Files are currently untested! Please give me feedback when you installed the KeyBack (Discord: kevinakasam#2097)
+## Keybak
+#### Files are currently untested! Please give me feedback when you installed the Keybak (Discord: kevinakasam#2097)
 
 <img src="Pictures/KeyBack_1.png" width="400"/> <img src="Pictures/KeyBack_2.png" width="400"/>
 
-KeyBack system similar to the Switchwire design.
+Keybak system similar to the Switchwire design.
 The files were remixed from the Switchwire CAD file.
-For licensing reasons, all KeyBack files are uploaded to GitHub only!
+For licensing reasons, all Keybak files are uploaded to GitHub only!
 Idea from Voron team, thanks!
 
-Info: Because of the transmission it is not necessary to install a KeyBack system.
+Info: Because of the transmission it is not necessary to install a Keybak system.
 The 1:5 ratio increases the holding force of the motor so that it can hold the X axis up even when it is powered off.
 A correctly adjusted belt tension is important for this.
 If you are using the V-Wheels it is also important that they are installed correctly (See Troubleshooting).
 From time to time I hear that users struggle to keep the axis up by using the belt tension only.
-Therefore, I have designed the KeyBack system. See BOM for all the parts you need.
+Therefore, I have designed the Keybak system. See BOM for all the parts you need.
 
-What is a KeyBack system and what is it for?
-A KeyBack is actually used to secure keys to a wire rope.
-Depending on the Keyback, they can support a lot of weight without the cord extending on its own.
-The KeyBack used here is strong enough to support the x axis. It takes the load off the motor and shares the weight of the axis with it.
+What is a Keybak system and what is it for?
+A Keybak is actually used to secure keys to a wire rope.
+Depending on the Keybak, they can support a lot of weight without the cord extending on its own.
+The Keybak used here is strong enough to support the x axis. It takes the load off the motor and shares the weight of the axis with it.
 __It is still important to tension the belts properly!
 If the belts are not tightened enough, there will be unclean prints later!__
-So make sure that the KeyBack doesn't mislead you into not tightening the belts enough.
+So make sure that the Keybak doesn't mislead you into not tightening the belts enough.
 See my FAQ video on how to properly tension the belts (video coming soon).
 
-You will have to print a new 1_LeftTop_A and a 3_spacer to use the KeyBack.
+You will have to print a new 1_LeftTop_A and a 3_spacer to use the Keybak.
 
 ## FAQ 
 ### Do I need to change the firmware?
@@ -116,6 +116,7 @@ Probably the most asked question, but I can promise that your axis does not have
 2. You have no rollers or your axis is still dropping? Tension your long belts a little more. Increase the tension until your axis stops dropping. Be careful not to break something. But the parts can take a lot of tension. Otherwise, check out my FAQ video about how to tension the belts (THE VIDEO HAS STILL TO BE CREATED).
 3. Tension the small looped belt a bit more as well. But very carefully! Usually the tension only needs to be high enough to keep the belt from slipping over the printed wheel. But you can increase the tension a little bit. But not too much, otherwise the motor can't turn anymore.
 4. That sounds too complicated? Your motor is also too hot? A solution would be a bigger motor, like the one on the X and Y axis. A bigger motor is able to hold the axis up very easily, with less tension and less heat. But as I said, this is not necessary, it also works with the original motor.
+5. New solution: Install the Keybak System (added 31.10.2021).
 
 ---
 ### Changelog:
