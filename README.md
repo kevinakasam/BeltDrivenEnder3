@@ -123,6 +123,7 @@ Probably the most asked question, but I can promise that your axis does not have
 31.10.2021: Big Update!
 - Moved the extruder to the stock position for the V3.4_Bowden plates (Fits BMG now too). Idea from trohnjavolta, thanks!
 - Split the tops into two parts to make them easier to print and more stable (Top_A and Top_B). Idea from sztywniutko (Thing:4911634), thanks!
+- Added a PSU mount.
 - Added a KeyBack system similar to the Switchwire design. The files were remixed from the Switchwire CAD file. For licensing reasons, all KeyBack files are uploaded to GitHub only! Idea from Voron team, thanks!
 
 17.08.2021: Made some small tolerance changes to the rotated transmission and the inner M3 parts.
