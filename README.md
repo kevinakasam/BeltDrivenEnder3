@@ -90,6 +90,11 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+31.10.2021: Big Update!
+- Moved the extruder to the stock position for the V3.4_Bowden plates (Fits BMG now too). Idea from trohnjavolta, thanks!
+- Split the tops into two parts to make them easier to print and more stable (Top_A and Top_B). Idea from sztywniutko (Thing:4911634), thanks!
+- Added a KeyBack system similar to the Switchwire design. The files were remixed from the Switchwire CAD file. For licensing reasons, all KeyBack files are uploaded to GitHub only! Idea from Voron team, thanks!
+
 17.08.2021: Made some small tolerance changes to the rotated transmission and the inner M3 parts.
 
 31.07.2021: I made a mistake and uploaded the wrong files for "LeftTop" and RightTop". If you downloaded the files from Thingiverse between 15.06.2021 and 31.07.2021, please download the latest version. I am very sorry! Thanks to mbarryton for the hint!
