@@ -1,3 +1,6 @@
+#### Files are currently untested! Please give me feedback when you installed the KeyBack (Discord: kevinakasam#2097)
+
+
 KeyBack system similar to the Switchwire design.
 The files were remixed from the Switchwire CAD file.
 For licensing reasons, all KeyBack files are uploaded to GitHub only!
@@ -19,4 +22,4 @@ If the belts are not tightened enough, there will be unclean prints later!__
 So make sure that the KeyBack doesn't mislead you into not tightening the belts enough.
 See my FAQ video on how to properly tension the belts (video coming soon).
 
-You will have to print a new 1_LeftTop_A to use the KeyBack.
+You will have to print a new 1_LeftTop_A and a 3_spacer to use the KeyBack.
