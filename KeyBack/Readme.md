@@ -11,7 +11,7 @@ The 1:5 ratio increases the holding force of the motor so that it can hold the X
 A correctly adjusted belt tension is important for this.
 If you are using the V-Wheels it is also important that they are installed correctly (See Troubleshooting).
 From time to time I hear that users struggle to keep the axis up by using the belt tension only.
-Therefore, I have designed the KeyBack system.
+Therefore, I have designed the KeyBack system. See BOM for all the parts you need.
 
 What is a KeyBack system and what is it for?
 A KeyBack is actually used to secure keys to a wire rope.
