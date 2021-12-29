@@ -11,15 +11,19 @@ Feel free to contact me on Discord: kevinakasam#2097
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
-Attention!
+Hello and welcome to the Belt Driven Z conversion. First of all, I would like to note a few things:
+#### Attention!
 I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this printer and don't just go ahead. For my printer the parts fit perfectly.
 Everybody bears the risks of a modification himself.
 All parts can be modified as you like.
 
-First things first:
+#### Why I made the Mod:
 My Ender 3 always had problems with the Z-axis, which were caused by a bent and misaligned leadscrew. Therefore I decided to convert the Ender to belts in Z as well.
-This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts both sides run synchronously and can also be adjusted very precisely.
+This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts, both sides run synchronously and can also be adjusted very precisely.
 So if you have these problems with the z-axis/x-axis, this is a good solution.
+
+#### What this Mod can't do:
+This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines): 
 
 Good luck and happy printing!
 
