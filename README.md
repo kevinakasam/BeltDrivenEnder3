@@ -10,9 +10,9 @@ Feel free to contact me on Discord: kevinakasam#2097
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
-Hello and welcome to the Belt Driven Z conversion. First of all, I would like to note a few things:
+Hello and welcome to the Belt Driven Z Mod. First of all, I would like to note a few things:
 ### Attention!
-I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this printer and don't just go ahead. For my printer the parts fit perfectly.
+I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this mod and don't just go ahead. For my printer the parts fit perfectly.
 Everybody bears the risks of a modification himself.
 All parts can be modified as you like. :D
 
