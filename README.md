@@ -12,20 +12,52 @@ Feel free to contact me on Discord: kevinakasam#2097
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
 Hello and welcome to the Belt Driven Z conversion. First of all, I would like to note a few things:
-#### Attention!
+### Attention!
 I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this printer and don't just go ahead. For my printer the parts fit perfectly.
 Everybody bears the risks of a modification himself.
 All parts can be modified as you like.
 
-#### Why I made the Mod:
+### Why I made the Mod:
 My Ender 3 always had problems with the Z-axis, which were caused by a bent and misaligned leadscrew. Therefore I decided to convert the Ender to belts in Z as well.
 This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts, both sides run synchronously and can also be adjusted very precisely.
 So if you have these problems with the z-axis/x-axis, this is a good solution.
 
-#### What this Mod can't do:
-This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines): 
+### What this Mod can't do:
+This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines). 
 
+<img src="Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="Pictures/print_examples/bad_flow2.JPEG" width="250"/>
+
+### A word about *linear rails*.
+There's a reason I haven't done a rail version in a very long time: Rails are no better than rollers in terms of quality. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load. 
+You also have to take care of the rails, lubricate and clean them from time to time, and make sure they don't leak. So you will spend a lot of money on a set of rails if you want good rails. Plus lubricants, cleaners, etc. Also, mounting the rails is more complicated. With wheels, you spent almost nothing on a new wheel, put it on, and you are good to go.
+So I recommend trying wheels first and if you still want rails, you just need to print two small adapters to install the rails. Keep things simple ;)
+
+### Print settings
+All Parts can be printed without support. Keep the orientation for best results. Yes, you can use PLA but no, you shouldn’t use PLA. I used PETG for the unenclosured, ABS for the enclosured printer. Suggested print settings: 50% Infill, 5 Walls/Top-Bottom layer.
 Good luck and happy printing!
+
+### Find the right STL files:
+*The V3.x means the current version. There may be some changes compared to the older versions. If you’re using an older version that’s totally fine.
+Check the Bom for a list of printed parts you need.
+If you like to have a minimum height of the printer (e.g. Enclosure) then please use the rotated version. Theres also a version with an extra bearing (e.g. "1_transmission_rotated_bearing.stl") to support the rod as much as possible.*
+
+- #### Bowden Setup
+  For a stock Ender 3, please use the 1_LeftV3.x_Bowden **or** 1_RightV3.x_Bowden. (Left for stock extruder position)
+
+- #### Direct Drive Setup
+  For a DDE setup, please use 1_LeftV3.x **and** 1_RightV3.x.
+
+- #### Normal V-Wheels/Rollers
+  Just use the files from the "V3" folder.
+
+- #### MGN-Rails
+  You need the files from the "V3_MGN" folder **in addition** to the V3 folder. But you do not need the printed spacers ("3_Spacer2.stl").
+
+- #### Dual Z G34
+  For a dual Z setup with two z motors use the files from the "Dual Z" folder **instead** of the transmission and top parts from the V3 folder. The rest is still the same, works with V-Wheels and MGN-Rails.
+
+## Thank you Voron
+This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub 
 
 ## Table of contents
 1. [Thank you very much!](##thank-you-very-much)
@@ -40,12 +72,12 @@ Good luck and happy printing!
 ## THANK YOU VERY MUCH!
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
 
-<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="450">
+<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="350">
 
 ## Print Showcase
-<img src="Pictures/Benchy.jpg" width="400"/> <img src="Pictures/Benchy_1.jpg" width="400"/>
-<img src="Pictures/Benchy_Blue.png" width="400"/> <img src="Pictures/Benchy_error.jpg" width="400"/>
-<img src="Pictures/ABS.JPEG" width="400"/> <img src="Pictures/IMG_3936.JPEG" width="400"/>
+<img src="Pictures/print_examples/Benchy.jpg" width="300"/> <img src="Pictures/print_examples/Benchy_1.jpg" width="300"/>
+<img src="Pictures/print_examples/Benchy_Blue.png" width="300"/> <img src="Pictures/print_examples/Benchy_error.jpg" width="300"/>
+<img src="Pictures/print_examples/Cube.JPEG" width="300"/> <img src="Pictures/print_examples/Tube.JPEG" width="300"/>
 
 ## Finally the video tutorials are finished!
 [![Video Tutorial](Pictures/thumbnailwheel.jpg)](https://youtu.be/bxTwFCPEIgg)
@@ -59,7 +91,7 @@ https://youtu.be/oUdoJUs8Zcg
 ## Keybak
 #### Files are currently untested! Please give me feedback when you installed the Keybak (Discord: kevinakasam#2097)
 
-<img src="Pictures/KeyBack_1.png" width="400"/> <img src="Pictures/KeyBack_2.png" width="400"/>
+<img src="Pictures/KeyBack_1.png" width="300"/> <img src="Pictures/KeyBack_2.png" width="300"/>
 
 Keybak system similar to the Switchwire design.
 The files were remixed from the Switchwire CAD file.
