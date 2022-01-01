@@ -4,13 +4,13 @@
 
 ---
 
-## Please read Instructions and BOM for more informations.
+### Please read Instructions and BOM for more informations.
 
 Feel free to contact me on Discord: kevinakasam#2097
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
-Hello and welcome to the Belt Driven Z Mod. First of all, I would like to note a few things:
+### Hello and welcome to the Belt Driven Z Mod. First of all, I would like to note a few things:
 ### Attention!
 I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this mod and don't just go ahead. For my printer the parts fit perfectly.
 Everybody bears the risks of a modification himself.
@@ -27,7 +27,7 @@ This mod can't solve problems that are caused by an inconsitent extrusion. Incon
 <img src="Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="Pictures/print_examples/bad_flow2.JPEG" width="250"/>
 
 ### A word about *linear rails*.
-There's a reason I haven't done a rail version in a very long time: Rails are no better than rollers in terms of quality. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load. 
+There's a reason I haven't made a rail version in a very long time: Rails are not better than rollers in ***terms of quality***. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load. 
 You also have to take care of the rails, lubricate and clean them from time to time, and make sure they don't leak. So you will spend a lot of money on a set of rails if you want good rails. Plus lubricants, cleaners, etc. Also, mounting the rails is more complicated. With wheels, you spent almost nothing on a new wheel, put it on, and you are good to go.
 So I recommend trying wheels first and if you still want rails, you just need to print two small adapters to install the rails. Keep things simple ;)
 
@@ -57,16 +57,6 @@ If you like to have a minimum height of the printer (e.g. Enclosure) then please
 
 ## Thank you Voron
 This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub 
-
-## Table of contents
-1. [Thank you very much!](##thank-you-very-much)
-2. [Print Showcase](##print-showcase)
-3. [Video Tutorials](##finally-the-video-tutorials-are-finished)
-4. [Keybak](##Keybak)
-5. [FAQ](##FAQ)
-6. [Troubleshooting](##troubleshooting)
-7. [Changelog](##changelog)
-
 
 ## THANK YOU VERY MUCH!
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
@@ -137,6 +127,9 @@ So you want to use two stepper motors to have an indipendent z axis? Thats possi
 ### I have a special question/ I need a custom version but I'm new to CAD. Can you help me?
 Yes of course! I'm happy to help, so please contact me via Discord (kevinakasam#2097). I'm sure we will find a solution for your problem :)
 
+### Can I support your work?
+Thank you very much if you want to support my work! But please dont feel obligated to do so. All parts are free and open source and will stay that way! If you still want to support me, you can find a donation link at the bottom of this page. Really many many thanks! :)
+
 ## Troubleshooting
 ### My Z motor moves in the wrong direction!
 Thats a quick fix. Just remove all the pins in you motor connector that goes into the mainboard (like I showed you in my video) and insert them in the opposite order (4321 instead of 1234).
@@ -187,10 +180,5 @@ Probably the most asked question, but I can promise that your axis does not have
 
 26.02.2021: Started Changelog.
 
----
-
-# V-Wheel Version
-<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RollerVersion.png" width="700">
-
-# MGN Rail Version
-<img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/RailVersion.png" width="700">
+--- 
+Donation Link: https://www.buymeacoffee.com/kevinakasam
