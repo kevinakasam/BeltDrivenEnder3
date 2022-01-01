@@ -1,3 +1,0 @@
-Actual Version of the BeltDriven Ender 3.
-Ckeck Readme and BOM for more Informations:)
-***In Progress***
