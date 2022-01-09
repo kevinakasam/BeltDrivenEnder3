@@ -65,7 +65,7 @@ If you like to have a minimum height of the printer (e.g. Enclosure) then please
   
 ### How to use the toothed idlers
 You have to remove the flage of the toothed idlers, otherwise they would get in contact with the profile.
-<img src="Pictures/print_examples/toothed_Idlers.png" width="200"/>
+<img src="Pictures/toothed_Idlers.png" width="200"/>
 
 ## Thank you Voron
 This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub 
