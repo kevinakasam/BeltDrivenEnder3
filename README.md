@@ -1,6 +1,11 @@
 # BeltDrivenEnder3
 
-<img src="Pictures/BD_V3.jpg" width="400"/> <img src="Pictures/Transmissionback.jpeg" width="400"/>
+
+### Versions
+1: Stock V-Wheels        |  2: MGN-12H   |  3: Dual Z (Wheels and MGN)
+:-------------------------:|:-------------------------:|:-------------------------:
+![](Pictures/Wheels.png)  |  ![](Pictures/MGN.png) |  ![](Pictures/Dual_Z.png)
+
 
 ---
 
@@ -9,6 +14,9 @@
 Feel free to contact me on Discord: kevinakasam#2097
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
+<br/>
+
+<br/>
 
 ### Hello and welcome to the Belt Driven Z Mod. First of all, I would like to note a few things:
 ### Attention!
@@ -65,8 +73,8 @@ I want to thank everyone who has helped me over the last months with feedback, s
 
 ## Print Showcase
 <img src="Pictures/print_examples/Benchy.jpg" width="300"/> <img src="Pictures/print_examples/Benchy_1.jpg" width="300"/>
-<img src="Pictures/print_examples/Benchy_Blue.png" width="300"/> <img src="Pictures/print_examples/Benchy_error.jpg" width="300"/>
-<img src="Pictures/print_examples/Cube.JPEG" width="300"/> <img src="Pictures/print_examples/Tube.JPEG" width="300"/>
+<img src="Pictures/print_examples/Benchy_Blue.png" width="300"/> <img src="Pictures/print_examples/Cube.JPEG" width="300"/>
+<img src="Pictures/print_examples/Tube.JPEG" width="300"/> <img src="Pictures/print_examples/Tube2.JPEG" width="300"/>
 
 ## Finally the video tutorials are finished!
 [![Video Tutorial](Pictures/thumbnailwheel.jpg)](https://youtu.be/bxTwFCPEIgg)
@@ -122,7 +130,7 @@ View the makes on Thingiverse. Some of you made a CR build so I thing it should 
 NO! A cheap aluminium or "normal" steelrod is just fine. There's also a transmission (rotated and unrotated) that hold a bearing inside, so you have some extra support in the middle of your rod. You also could use your leadscrew to minimize the costs.
 
 ### Dual Z? G34?
-So you want to use two stepper motors to have an indipendent z axis? Thats possible of course! Just use the tranmission body with the bearing inside and two shorter rods (100mm should fit). This way the two tranmissions support the inner end of each rod and the Top parts the outer end (as normal). You also could mirror one transmission body to have a symmetric setup.
+So you want to use two stepper motors to have an indipendent z axis? Thats possible of course! Just use the files from the Dual Z folder!
 
 ### I have a special question/ I need a custom version but I'm new to CAD. Can you help me?
 Yes of course! I'm happy to help, so please contact me via Discord (kevinakasam#2097). I'm sure we will find a solution for your problem :)
@@ -148,6 +156,12 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+09.01.2022: Second big Update: **V3.5**
+- Adjusted the Belt path so they're parallel now. This was requested quite often, sorry it took so long.
+- Added a version for toothed bearings. 
+- Added Dual Z Version.
+- Removed upper holes in the Top parts, so you do not have to unscrew the top profile.
+
 31.10.2021: Big Update!
 - Moved the extruder to the stock position for the V3.4_Bowden plates (Fits BMG now too). Idea from trohnjavolta, thanks!
 - Split the tops into two parts to make them easier to print and more stable (Top_A and Top_B). Idea from sztywniutko (Thing:4911634), thanks!
