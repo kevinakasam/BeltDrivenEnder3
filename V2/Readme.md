@@ -1,3 +1,7 @@
+All files for the V2 version, you should use the V3.
+
+
+
 Info for V2: with Voron Transmission
 
 
@@ -5,38 +9,38 @@ Info for V2: with Voron Transmission
 
 
 Achtung!
-Ich bin kein Profi und betreibe 3D-Druck als mein Hobby. Also bitte überlegt selbst, wenn ihr euren Drucker umbaut und legt nicht einfach los. Für meinen Drucker passen die Teile hervorrangend. Die Drucke sehen wirklich perfekt aus.
-Jeder trägt die Risiken eines Umbaus selbst.
-Alle Teile können nach Belieben verändert werden. 
+Ich bin kein Profi und betreibe 3D-Druck als mein Hobby. Also bitte Ã¼berlegt selbst, wenn ihr euren Drucker umbaut und legt nicht einfach los. FÃ¼r meinen Drucker passen die Teile hervorrangend. Die Drucke sehen wirklich perfekt aus.
+Jeder trÃ¤gt die Risiken eines Umbaus selbst.
+Alle Teile kÃ¶nnen nach Belieben verÃ¤ndert werden. 
 
 
 Upadte V2:
-Im Gegensatz zur Version V1 könnt ihr diesesmal alle Teile vom Drucker wiederverwenden. Somit ist der Umbau einfacher, stabiler und günstiger. Selbst die Pulleys könntet ihr drucken und somit Geld sparem, würde ich jedoch nicht empfelen.
-Die angebrachte Übersetzung ist die größte Neuerung. Dadurch erhöht ihr nicht nur eure Auflösung in Z, auch sinkt die X Achse nicht mehr 0, sobald diese keinen Strom mehr haben (entweder nach dem Druck oder sollte euer Strom ausfallen). Alle weiteren Vorteile des Mods findet ihr einen Punkt tiefer.
+Im Gegensatz zur Version V1 kÃ¶nnt ihr diesesmal alle Teile vom Drucker wiederverwenden. Somit ist der Umbau einfacher, stabiler und gÃ¼nstiger. Selbst die Pulleys kÃ¶nntet ihr drucken und somit Geld sparem, wÃ¼rde ich jedoch nicht empfelen.
+Die angebrachte Ãœbersetzung ist die grÃ¶ÃŸte Neuerung. Dadurch erhÃ¶ht ihr nicht nur eure AuflÃ¶sung in Z, auch sinkt die X Achse nicht mehr 0, sobald diese keinen Strom mehr haben (entweder nach dem Druck oder sollte euer Strom ausfallen). Alle weiteren Vorteile des Mods findet ihr einen Punkt tiefer.
 
 
 Vorab:
-Mein Ender 3 hatte immer Probleme in der Z-Achse, welche auf eine krumme Spindel zurückzuführen waren. Daher habe ich beschlossen den Ender auch in Z auf Riemen umzubauen.
+Mein Ender 3 hatte immer Probleme in der Z-Achse, welche auf eine krumme Spindel zurÃ¼ckzufÃ¼hren waren. Daher habe ich beschlossen den Ender auch in Z auf Riemen umzubauen.
 
-Dieser Umbau löst auch dem Problem einer hängenden x-Achse, auf der rechten Seite. Durch die beiden Riemen, laufen die beiden Seiten nicht nur synchron, sondern lassen sich auch auf den Millimeter genau einstellen.
-Sollte man dieses Problem mit der X-Achse haben, ist dies also eine geeignete Lösung.	
+Dieser Umbau lÃ¶st auch dem Problem einer hÃ¤ngenden x-Achse, auf der rechten Seite. Durch die beiden Riemen, laufen die beiden Seiten nicht nur synchron, sondern lassen sich auch auf den Millimeter genau einstellen.
+Sollte man dieses Problem mit der X-Achse haben, ist dies also eine geeignete LÃ¶sung.	
 Hier findet ihr die Modelle des Hotends und des Nema:
 grabcad.com/library/cr10-stock-hot-end-1
 grabcad.com/library/nema-17-stepper-motor-22
 
 
 Voron Parts:
-Die Übersetzung der Z Achse ist vom Voron übernommen. Mehr Infos zum Drucker erhaltet ihr hier: 
+Die Ãœbersetzung der Z Achse ist vom Voron Ã¼bernommen. Mehr Infos zum Drucker erhaltet ihr hier: 
 http://vorondesign.com/
 https://github.com/VoronDesign
 
-Die Datein der Übersetzung sind nicht meine Arbeit und daher auch nicht hier hochgeladen. Ich habe lediglich ein Teil angepasst um die Übersetzung an dem Ender anzubringen. Welche Teile ihr benötigt und wo ihr diese erhaltet, findet ihr unter "Printed Parts".
+Die Datein der Ãœbersetzung sind nicht meine Arbeit und daher auch nicht hier hochgeladen. Ich habe lediglich ein Teil angepasst um die Ãœbersetzung an dem Ender anzubringen. Welche Teile ihr benÃ¶tigt und wo ihr diese erhaltet, findet ihr unter "Printed Parts".
 
 
-BOM (die Teile vom Ender werden nicht aufgeführt, Schrauben Muttern etc. werden wiederverwendet)
+BOM (die Teile vom Ender werden nicht aufgefÃ¼hrt, Schrauben Muttern etc. werden wiederverwendet)
 16x M5*8mm 
 6x M5*40mm
-4x M5*30mm (Für die oebre Strebe,  die originalen werden auch passen, haben dann aber nicht viel Restgewinde)
+4x M5*30mm (FÃ¼r die oebre Strebe,  die originalen werden auch passen, haben dann aber nicht viel Restgewinde)
 16x M5 T-Slot Nuts
 10x M3*16
 10x M3 Nuts
@@ -45,15 +49,15 @@ BOM (die Teile vom Ender werden nicht aufgeführt, Schrauben Muttern etc. werden 
 3x GT2 20 8mm Pulley (bei einem muss der Flansch entfernt werden: https://www.youtube.com/watch?v=RKpxDKYOJYs)
 2 Meter GT2 6mm Belt
 1x GT2 Belt Loop (6mm wide) - 188mm http://s.click.aliexpress.com/e/ripvAfVQ (Affiliate Link from the Voron Guys)
-0.4 Meter Welle (es reicht ein günstiger 8mm Aluminiumstab aus dem Baumarkt, die Welle muss später gekürzt werden) (ihr könnt ZUR NOT auch die Z Spindel verwenden)
+0.4 Meter Welle (es reicht ein gÃ¼nstiger 8mm Aluminiumstab aus dem Baumarkt, die Welle muss spÃ¤ter gekÃ¼rzt werden) (ihr kÃ¶nnt ZUR NOT auch die Z Spindel verwenden)
 
 
 Printed Parts
-Die Ausrichtung der Teile ist willkürlich. Bitte findet für euch selbst die optimale Ausrichtung heraus.
+Die Ausrichtung der Teile ist willkÃ¼rlich. Bitte findet fÃ¼r euch selbst die optimale Ausrichtung heraus.
 V2 verwendet die meisten Teile aus V1, ihr findet diese in der V2.zip.
 
-Alle Teile können ohne Support gedruckt werden.
-Alle Teile müssen nur einmal gedruckt werden, außer 4x 'Clamp'(für V3 2xTensionerClampV3 und 2x TensionerBlockV3)  und ' 5x 'Spacer2'(2x für Links, 3x für Rechts)
+Alle Teile kÃ¶nnen ohne Support gedruckt werden.
+Alle Teile mÃ¼ssen nur einmal gedruckt werden, auÃŸer 4x 'Clamp'(fÃ¼r V3 2xTensionerClampV3 und 2x TensionerBlockV3)  und ' 5x 'Spacer2'(2x fÃ¼r Links, 3x fÃ¼r Rechts)
 	Wall line count: min. 5
 	Infill: 50% oder mehr
 	0.2mm Layerhight
@@ -61,15 +65,15 @@ Alle Teile müssen nur einmal gedruckt werden, außer 4x 'Clamp'(für V3 2xTensione
 Alle Originalteile sind auf der Voron GitHub-Website zu finden (Ich wiederhole, diese sind nicht meine Arbeit!):
 https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Z_Drive/HD_Z_Drive
 
-Für die Mod finden sich alle Teile hier: https://github.com/kevinakasam/BeltDrivenEnder3.git
+FÃ¼r die Mod finden sich alle Teile hier: https://github.com/kevinakasam/BeltDrivenEnder3.git
 
 
 Anleitung:
-Es werden alle Teile wie auf den Fotos montiert.  Spacer2 sind die hinteren Abstandshalter der V-Slotwheels für die Platte an der die Riemen befestigt werden.
-Die Belts benötigen eine Länge von ca. 88cm und werden bündig festgeklemmt.
-Die steps/mm  werden für Z auf 400.00 gestellt werden. Sollte euer Ender 3 kein Eprom haben, schreibt 'M92 Z400.00;' in euren Start-Gcode.
+Es werden alle Teile wie auf den Fotos montiert.  Spacer2 sind die hinteren Abstandshalter der V-Slotwheels fÃ¼r die Platte an der die Riemen befestigt werden.
+Die Belts benÃ¶tigen eine LÃ¤nge von ca. 88cm und werden bÃ¼ndig festgeklemmt.
+Die steps/mm  werden fÃ¼r Z auf 400.00 gestellt werden. Sollte euer Ender 3 kein Eprom haben, schreibt 'M92 Z400.00;' in euren Start-Gcode.
 
-Für den Zusammenbau der Übersetzung findet ihr hier eine Anleitung:
+FÃ¼r den Zusammenbau der Ãœbersetzung findet ihr hier eine Anleitung:
 https://github.com/VoronDesign/Voron-2/tree/Voron2.2/manuals
 
 Fertig!:) Viel Erfolg und happy printing!
