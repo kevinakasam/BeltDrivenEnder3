@@ -161,6 +161,10 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+19.01.2022: Small Changes
+- Added the V3_Extra folder to store the customizations I made for you.
+- Added the small hole in the V3.5 plates again for the belt from the tensioner block.
+
 09.01.2022: Second big Update: **V3.5**
 - Adjusted the Belt path so they're parallel now. This was requested quite often, sorry it took so long.
 - Added a version for toothed bearings. 
