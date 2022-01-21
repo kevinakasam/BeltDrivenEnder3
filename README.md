@@ -1,10 +1,12 @@
 # BeltDrivenEnder3
 
 
-### Versions
+### Versions/Variants
 1: Stock V-Wheels        |  2: MGN-12H   |  3: Dual Z (Wheels and MGN)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Pictures/Wheels.png)  |  ![](Pictures/MGN.png) |  ![](Pictures/Dual_Z.png)
+
+This mod now exists in the 3rd version (V3). The upper V1 and V2 folders contain the files for the old versions. The current version (V3) exists in 3 variations:V-Wheels, MGN-12h and Dual Z (Dual Z works with both variants V-Wheels and MGN-12h). In addition, you can choose between unrotated and rotated transmission (not for Dual Z). I hope this clarifies the confusion between the versions and variants.
 
 
 ---
