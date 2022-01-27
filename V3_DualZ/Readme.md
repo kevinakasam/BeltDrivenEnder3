@@ -1,5 +1,5 @@
 Files for the Dual Z Version. The files are slightly modified from the V3 files. With this version, the transmission sits on the outside (see photo below). This allows you to use the metal 80T pulley as well as larger gears than 80T to increase the z-axis resolution.
-Instead of one long, you now need two 65mm rods. Besides a second motor, all other transmission parts are needed twice.
+Instead of one long, you now need two 65mm rods. Besides a second motor, all other transmission parts are needed twice. Check BOM for a detailed parts list.
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Dual_Z.png?raw=true" width="400"/> <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Dual_Z_DrillBit.JPEG?raw=true" width="533"/>
 
