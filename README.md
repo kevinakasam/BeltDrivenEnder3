@@ -12,6 +12,7 @@ This mod now exists in the 3rd version (V3). The upper V1 and V2 folders contain
 ---
 
 ### Please read Instructions and BOM for more informations.
+Written Instructions will be updated soon. BOM is up to date.
 
 Feel free to contact me on Discord: kevinakasam#2097
 
@@ -63,7 +64,7 @@ If you like to have a minimum height of the printer (e.g. Enclosure) then please
   You need the files from the "V3_MGN" folder **in addition** to the V3 folder. But you do not need the printed spacers ("3_Spacer2.stl").
 
 - #### Dual Z G34
-  For a dual Z setup with two z motors use the files from the "Dual Z" folder **instead** of the transmission and top parts from the V3 folder. The rest is still the same, works with V-Wheels and MGN-Rails.
+  For a dual Z setup with two z motors use the files from the "Dual Z" folder **instead** of the transmission and top parts from the V3 folder. The rest is still the same, works with V-Wheels and MGN-Rails. See BOM for more details.
   
 ### How to use the toothed idlers
 You have to remove the flage of the toothed idlers, otherwise they would get in contact with the profile.
@@ -137,7 +138,7 @@ View the makes on Thingiverse. Some of you made a CR build so I thing it should 
 NO! A cheap aluminium or "normal" steelrod is just fine. There's also a transmission (rotated and unrotated) that hold a bearing inside, so you have some extra support in the middle of your rod. You also could use your leadscrew to minimize the costs.
 
 ### Dual Z? G34?
-So you want to use two stepper motors to have an indipendent z axis? Thats possible of course! Just use the files from the Dual Z folder!
+So you want to use two stepper motors to have an indipendent z axis? Thats possible of course! Just use the files from the Dual Z folder! See BOM for detailed parts list.
 
 ### I have a special question/ I need a custom version but I'm new to CAD. Can you help me?
 Yes of course! I'm happy to help, so please contact me via Discord (kevinakasam#2097). I'm sure we will find a solution for your problem :)
@@ -163,6 +164,8 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+27.01.2022: Updated the BOM.
+
 19.01.2022: Small Changes
 - Added the V3_Extra folder to store the customizations I made for you.
 - Added the small hole in the V3.5 plates again for the belt from the tensioner block.
