@@ -12,9 +12,12 @@ This mod now exists in the 3rd version (V3). The upper V1 and V2 folders contain
 ---
 
 ### Please read Instructions and BOM for more informations.
-Written Instructions will be updated soon. BOM is up to date.
+Written Instructions will be updated soon. BOM is up to date. 
+
 
 Feel free to contact me on Discord: kevinakasam#2097
+
+**Because of my exams in the university I can not make any custom changes until the middle/end of February. I'm still happy to answer questions, but the response time may be a little longer.**
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 <br/>
