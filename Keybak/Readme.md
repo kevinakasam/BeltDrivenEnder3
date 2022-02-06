@@ -24,3 +24,5 @@ So make sure that the Keybak doesn't mislead you into not tightening the belts e
 See my FAQ video on how to properly tension the belts (video coming soon).
 
 You will have to print a new 1_LeftTop_A and a 3_spacer to use the Keybak.
+
+Ender3V2 printers does not have the PSU mounted to the right, so you might want to mount zour KeyBak to the right side. For that you will need to print ...\_mirrored4right.stl alternative variants. 
