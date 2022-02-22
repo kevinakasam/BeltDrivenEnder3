@@ -6,18 +6,12 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Pictures/Wheels.png)  |  ![](Pictures/MGN.png) |  ![](Pictures/Dual_Z.png)
 
-This mod now exists in the 3rd version (V3). The upper V1 and V2 folders contain the files for the old versions. The current version (V3) exists in 3 variations:V-Wheels, MGN-12h and Dual Z (Dual Z works with both variants V-Wheels and MGN-12h). In addition, you can choose between unrotated and rotated transmission (not for Dual Z). I hope this clarifies the confusion between the versions and variants.
-
-
 ---
 
 ### Please read Instructions and BOM for more informations.
 Written Instructions will be updated soon. BOM is up to date. 
 
-
 Feel free to contact me on Discord: kevinakasam#2097
-
-**Because of my exams in the university I can not make any custom changes until the middle/end of February. I'm still happy to answer questions, but the response time may be a little longer.**
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 <br/>
@@ -25,6 +19,9 @@ Huge thanks to my mate Deutherius, who helped me over months, tested everything 
 <br/>
 
 ### Hello and welcome to the Belt Driven Z Mod. First of all, I would like to note a few things:
+
+This mod now exists in the 3rd version (V3). The upper V1 and V2 folders contain the files for the old versions. The current version (V3) exists in 3 variations:V-Wheels, MGN-12h and Dual Z (Dual Z works with both variants V-Wheels and MGN-12h). In addition, you can choose between unrotated and rotated transmission (not for Dual Z). I hope this clarifies the confusion between the versions and variants.
+
 ### Attention!
 I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this mod and don't just go ahead. For my printer the parts fit perfectly.
 Everybody bears the risks of a modification himself.
@@ -39,6 +36,10 @@ So if you have these problems with the z-axis/x-axis, this is a good solution.
 This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines). 
 
 <img src="Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="Pictures/print_examples/bad_flow2.JPEG" width="250"/>
+
+### Powered by Powge! 
+I am very very proud to announce that there is now a Motion Kit for this mod available for purchase! The Motion Kit from Powge provides all parts for Single Z or Dual Z, with F623 or 20T Idlers and in black or silver. This allows us to use high quality parts at a low price! Belts and pulleys match up perfectly and make the mod a little better. Thanks to Powge for this opportunity! (btw Aliexpress shows delivery times of several months, but shipping is significantly faster (to Germany it takes about 10 days)).
+
 
 ### A word about *linear rails*.
 There's a reason I haven't made a rail version in a very long time: Rails are not better than rollers in ***terms of quality***. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load. 
