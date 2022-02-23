@@ -37,7 +37,7 @@ This mod can't solve problems that are caused by an inconsitent extrusion. Incon
 
 <img src="Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="Pictures/print_examples/bad_flow2.JPEG" width="250"/>
 
-### Powered by Powge! 
+### <img src="Pictures/powge.jpg" width="75"/> Powered by Powge! 
 I am very very proud to announce that there is now a Motion Kit for this mod available for purchase! The Motion Kit from Powge provides all parts for Single Z or Dual Z, with F623 or 20T Idlers and in black or silver. This allows us to use high quality parts at a low price! Belts and pulleys match up perfectly and make the mod a little better. Thanks to Powge for this opportunity! (btw Aliexpress shows delivery times of several months, but shipping is significantly faster (to Germany it takes about 10 days)).
 
 
