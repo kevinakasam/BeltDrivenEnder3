@@ -214,4 +214,4 @@ Probably the most asked question, but I can promise that your axis does not have
 26.02.2021: Started Changelog.
 
 --- 
-Donation Link: https://www.buymeacoffee.com/kevinakasam
+Donation Link: https://www.buymeacoffee.com/kevinakasam or via [Paypal](https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE) 
