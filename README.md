@@ -13,7 +13,7 @@ Written Instructions will be updated soon. BOM is up to date.
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
-If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC) 
+**If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC)**
  
 <a href="https://discord.gg/xqpKrxt9FC">
          <img alt="Join" src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Discord-Logo%2BWordmark-Color.png"
