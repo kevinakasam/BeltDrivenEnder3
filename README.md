@@ -15,7 +15,7 @@ Huge thanks to my mate Deutherius, who helped me over months, tested everything 
 
 **If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC)**
  
-<a href="https://discord.gg/xqpKrxt9FC">
+<a href="https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE">
          <img alt="Join" src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Discord-Logo%2BWordmark-Color.png"
          width=250" >
       </a>
@@ -89,6 +89,13 @@ This mod uses a modified transmission from the Voron 2.2. I made a different fra
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="350">
+
+Many, many, many thanks if you want to support me and my projects. I'm really happy about that and it helps me to pay for all the testing. All designs are free and will remain so, so please don't feel forced to donate anything :)
+ 
+<a href="https://discord.gg/xqpKrxt9FC">
+         <img alt="Donate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png"
+         width=150" >
+      </a>
 
 ## Print Showcase
 <img src="Pictures/print_examples/Benchy.jpg" width="300"/> <img src="Pictures/print_examples/Benchy_1.jpg" width="300"/>
@@ -175,6 +182,8 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+09.05.2022: Updated the BOM. (16T link was wrong, sorry for that!)
+
 27.01.2022: Updated the BOM.
 
 19.01.2022: Small Changes
