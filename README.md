@@ -15,7 +15,7 @@ Huge thanks to my mate Deutherius, who helped me over months, tested everything 
 
 **If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC)**
  
-<a href="https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE">
+<a href="https://discord.gg/xqpKrxt9FC">
          <img alt="Join" src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Discord-Logo%2BWordmark-Color.png"
          width=250" >
       </a>
@@ -92,7 +92,7 @@ I want to thank everyone who has helped me over the last months with feedback, s
 
 Many, many, many thanks if you want to support me and my projects. I'm really happy about that and it helps me to pay for all the testing. All designs are free and will remain so, so please don't feel forced to donate anything :)
  
-<a href="https://discord.gg/xqpKrxt9FC">
+<a href="https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE">
          <img alt="Donate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png"
          width=150" >
       </a>
