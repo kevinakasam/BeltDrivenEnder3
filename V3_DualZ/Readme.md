@@ -7,7 +7,7 @@ Dual Z can also be used with the normal V3 files, but the transmission would be 
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Dual_Z_normalfiles.png?raw=true" width="400"/>
 
-If the motors can be controlled independently (two drivers on the board, not both on the same driver), G34 can be used. If both motors cannot be controlled separately, G34 will not work and Tram Z must be used instead (as with Prusa Mk2s/Mk3s). For all Klipper users I have written a macro that can be used:
+If the motors can be controlled independently (two drivers on the board, not both on the same driver), G34 can be used. If both motors cannot be controlled separately, G34 will not work and Tram Z must be used instead (as with Prusa Mk2s/Mk3s). Your Board needs UART driver for this. For all Klipper users I have written a macro that can be used:
 ```
 Tram Z Makro for Klipper:
 
