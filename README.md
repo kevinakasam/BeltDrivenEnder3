@@ -86,7 +86,7 @@ You have to remove the flage of the toothed idlers, otherwise they would get in 
 This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub 
 
 ## THANK YOU VERY MUCH!
-I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become so big! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with.
+I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become sich a thing! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with his mod.
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="350">
 
