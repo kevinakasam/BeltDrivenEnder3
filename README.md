@@ -72,7 +72,7 @@ If you like to have a minimum height of the printer (e.g. Enclosure) then please
   Just use the files from the "V3" folder.
 
 - #### MGN-Rails
-  You need the files from the "V3_MGN" folder **in addition** to the V3 folder. But you do not need the printed spacers ("3_Spacer2.stl").
+  You need the files from the "V3_MGN" folder **in addition** to the V3 folder. But you do not need the printed spacers ("3_Spacer2.stl"). (Note: MGN_9H files in the V3_extras folder)
 
 - #### Dual Z G34
   For a dual Z setup with two z motors use the files from the "Dual Z" folder **instead** of the transmission and top parts from the V3 folder. The rest is still the same, works with V-Wheels and MGN-Rails. See BOM for more details.
@@ -182,6 +182,8 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+14.07.2022: Added MGN 9H support in the V3_Extras folder.
+
 09.05.2022: Updated the BOM. (16T link was wrong, sorry for that!)
 
 27.01.2022: Updated the BOM.
