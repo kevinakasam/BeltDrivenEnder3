@@ -59,7 +59,7 @@ Good luck and happy printing!
 
 ### Find the right STL files:
 *The V3.x means the current version. There may be some changes compared to the older versions. If you’re using an older version that’s totally fine.
-Check the Bom for a list of printed parts you need.
+Check the Bom for a list of printed parts you need. If you can't print the parts yourself, you may find a set on my Discord.
 If you like to have a minimum height of the printer (e.g. Enclosure) then please use the rotated version. Theres also a version with an extra bearing (e.g. "1_transmission_rotated_bearing.stl") to support the rod as much as possible.*
 
 - #### Bowden Setup
