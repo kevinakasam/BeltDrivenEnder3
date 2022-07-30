@@ -9,12 +9,12 @@
 ---
 
 ### Please read Instructions and BOM for more informations.
-Written Instructions will be updated soon. BOM is up to date. 
+Written Instructions will be updated soon. BOM is up to date.
 
 Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
 
 **If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC)**
- 
+
 <a href="https://discord.gg/xqpKrxt9FC">
          <img alt="Join" src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Discord-Logo%2BWordmark-Color.png"
          width=250" >
@@ -39,17 +39,17 @@ This mod also solves the problem of a hanging x-axis on the right side. Because 
 So if you have these problems with the z-axis/x-axis, this is a good solution.
 
 ### What this Mod can't do:
-This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines). 
+This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines).
 
 <img src="Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="Pictures/print_examples/bad_flow2.JPEG" width="250"/>
 
-### <img src="Pictures/powge.jpg" width="75"/> Powered by Powge! 
+### <img src="Pictures/powge.jpg" width="75"/> Powered by Powge!
 I am very very proud to announce that there is now a Motion Kit for this mod available for purchase! The Motion Kit from Powge provides all parts for Single Z or Dual Z, with F623 or 20T Idlers and in black or silver. This allows us to use high quality parts at a low price! Belts and pulleys match up perfectly and make the mod a little better. Thanks to Powge for this opportunity! (btw Aliexpress shows delivery times of several months, but shipping is significantly faster (to Germany it takes about 10 days)).
 Link to the kit (also included in the BOM): https://www.aliexpress.com/item/1005003933709487.html
 
 
 ### A word about *linear rails*.
-There's a reason I haven't made a rail version in a very long time: Rails are not better than rollers in ***terms of quality***. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load. 
+There's a reason I haven't made a rail version in a very long time: Rails are not better than rollers in ***terms of quality***. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load.
 You also have to take care of the rails, lubricate and clean them from time to time, and make sure they don't leak. So you will spend a lot of money on a set of rails if you want good rails. Plus lubricants, cleaners, etc. Also, mounting the rails is more complicated. With wheels, you spent almost nothing on a new wheel, put it on, and you are good to go.
 So I recommend trying wheels first and if you still want rails, you just need to print two small adapters to install the rails. Keep things simple ;)
 
@@ -76,14 +76,14 @@ If you like to have a minimum height of the printer (e.g. Enclosure) then please
 
 - #### Dual Z G34
   For a dual Z setup with two z motors use the files from the "Dual Z" folder **instead** of the transmission and top parts from the V3 folder. The rest is still the same, works with V-Wheels and MGN-Rails. See BOM for more details.
-  
+
 ### How to use the toothed idlers
 You have to remove the flage of the toothed idlers, otherwise they would get in contact with the profile.
 
 <img src="Pictures/toothed_Idlers.png" width="300"/>
 
 ## Thank you Voron
-This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub 
+This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub
 
 ## THANK YOU VERY MUCH!
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become sich a thing! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with his mod.
@@ -91,7 +91,7 @@ I want to thank everyone who has helped me over the last months with feedback, s
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Contest.jpg" width="350">
 
 Many, many, many thanks if you want to support me and my projects. I'm really happy about that and it helps me to pay for all the testing. All designs are free and will remain so, so please don't feel forced to donate anything :)
- 
+
 <a href="https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE">
          <img alt="Donate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png"
          width=150" >
@@ -103,13 +103,13 @@ Many, many, many thanks if you want to support me and my projects. I'm really ha
 <img src="Pictures/print_examples/Tube.JPEG" width="300"/> <img src="Pictures/print_examples/Tube2.JPEG" width="300"/>
 
 ## Finally the video tutorials are finished!
-[![Video Tutorial](Pictures/thumbnailwheel.jpg)](https://youtu.be/bxTwFCPEIgg)
-
-https://youtu.be/bxTwFCPEIgg
-
-[![Video Tutorial](Pictures/ThumbnailMGN.jpg)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
+[![Video Tutorial](Pictures/thumbnailwheel.jpg)](https://youtu.be/oUdoJUs8Zcg)
 
 https://youtu.be/oUdoJUs8Zcg
+
+[![Video Tutorial](Pictures/ThumbnailMGN.jpg)](https://youtu.be/bxTwFCPEIgg)
+
+https://youtu.be/bxTwFCPEIgg
 
 ## Keybak
 #### Files are currently untested! Please give me feedback when you installed the Keybak (Discord: kevinakasam#2097)
@@ -139,7 +139,7 @@ See my FAQ video on how to properly tension the belts (video coming soon).
 
 You will have to print a new 1_LeftTop_A and a 3_spacer to use the Keybak.
 
-## FAQ 
+## FAQ
 ### Do I need to change the firmware?
 NO! You do not have to change anything in the firmware. This modification works with the stock board and stock firmware.
 
@@ -194,7 +194,7 @@ Probably the most asked question, but I can promise that your axis does not have
 
 09.01.2022: Second big Update: **V3.5**
 - Adjusted the Belt path so they're parallel now. This was requested quite often, sorry it took so long.
-- Added a version for toothed bearings. 
+- Added a version for toothed bearings.
 - Added Dual Z Version.
 - Removed upper holes in the Top parts, so you do not have to unscrew the top profile.
 
@@ -230,5 +230,5 @@ Probably the most asked question, but I can promise that your axis does not have
 
 26.02.2021: Started Changelog.
 
---- 
-Donation Link: https://www.buymeacoffee.com/kevinakasam or via [Paypal](https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE) 
+---
+Donation Link: https://www.buymeacoffee.com/kevinakasam or via [Paypal](https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE)
