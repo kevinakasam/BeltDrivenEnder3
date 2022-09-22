@@ -7,12 +7,16 @@
 ![](_ignore/Pictures/Wheels.png)  |  ![](_ignore/Pictures/MGN.png) |  ![](_ignore/Pictures/Dual_Z.png)
 
 ---
+## Hello and welcome to the Belt Driven Z Mod.
+### STLs, Bill of Materials and Instructions 
+Please visit my [website](https://www.kevinakasam.com/belt-driven-ender-3/) to start the Config Finder. I have spent many hours creating a very interactive and easy to follow guide for the mod. You will get all the files you need at the end of the Config Finder, including a zip file with all the STLs, materials you need, and the instructions for your particular setup.
 
-### Please read Instructions and BOM for more informations.
-Written Instructions will be updated soon. BOM is almost up to date (with the V3.6 update you need **two additional M5 nuts** and **one M5x30mm screw** per transmission (so Dual Z will need twice as much) and two 3x14mm pins for the new bottom parts (pins are already included in the Powge Kit. You can use the old bottom parts with a M3 screw in the `\V3\_old_V3_parts` folder). Please forgive this extra note, I will update the bom with the new instructions!
+<a href="https://kevinakasam.com/belt-driven-ender-3/">
+         <img alt="Click" src="https://kevinakasam.com/wp-content/uploads/2022/07/BeltDriven_Ender3_V3_25012022-768x768.png"
+         width=250" >
+      </a>
 
-Huge thanks to my mate Deutherius, who helped me over months, tested everything and brought this mod to perfection. Many thanks for the help, the photos and the new heated bed!
-
+### Discord
 **If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC)**
  
 <a href="https://discord.gg/xqpKrxt9FC">
@@ -20,80 +24,58 @@ Huge thanks to my mate Deutherius, who helped me over months, tested everything 
          width=250" >
       </a>
 
-<br/>
+### Further notes
+#### Versions vs. Variants
+This mod now exists in the 3rd version (V3). The _ignore folder contains all the files for the old versions (V1 and V2). The current version (V3) exists in 3 variations:V-Wheels, MGN-12h and Dual Z (Dual Z works with both variants V-Wheels and MGN-12h). In addition, you can choose between the normal and ultralow version. I hope this clarifies the confusion between the versions and variants. Again please use the config finder on my [website](https://www.kevinakasam.com/belt-driven-ender-3/) to configure your individual setup.
 
-<br/>
-
-### Hello and welcome to the Belt Driven Z Mod. First of all, I would like to note a few things:
-
-This mod now exists in the 3rd version (V3). The upper V1 and V2 folders contain the files for the old versions. The current version (V3) exists in 3 variations:V-Wheels, MGN-12h and Dual Z (Dual Z works with both variants V-Wheels and MGN-12h). In addition, you can choose between unrotated and rotated transmission (not for Dual Z). I hope this clarifies the confusion between the versions and variants.
-
-### Attention!
+#### Attention!
 I'm not an expert and 3D printing is my hobby. So please be careful when you rebuild this mod and don't just go ahead. For my printer the parts fit perfectly.
 Everybody bears the risks of a modification himself.
 All parts can be modified as you like. :D
 
-### Why I made the Mod:
+#### Print settings
+All Parts can be printed without support. Keep the orientation for best results. Yes, you can use PLA but no, you shouldn’t use PLA. I used PETG for the unenclosured, ABS for the enclosured printer. Suggested print settings: 50% Infill, 5 Walls/Top-Bottom layer.
+Good luck and happy printing!
+
+#### Why I made the Mod:
 My Ender 3 always had problems with the Z-axis, which were caused by a bent and misaligned leadscrew. Therefore I decided to convert the Ender to belts in Z as well.
 This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts, both sides run synchronously and can also be adjusted very precisely.
-So if you have these problems with the z-axis/x-axis, this is a good solution.
 
-### What this Mod can't do:
+#### What this Mod can't do:
 This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines). 
 
 <img src="_ignore/Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="_ignore/Pictures/print_examples/bad_flow2.JPEG" width="250"/>
 
-### <img src="_ignore/Pictures/powge.jpg" width="75"/> Powered by Powge! 
+#### <img src="_ignore/Pictures/powge.jpg" width="75"/> Powered by Powge! 
 I am very very proud to announce that there is now a Motion Kit for this mod available for purchase! The Motion Kit from Powge provides all parts for Single Z or Dual Z, with F623 or 20T Idlers and in black or silver. This allows us to use high quality parts at a low price! Belts and pulleys match up perfectly and make the mod a little better. Thanks to Powge for this opportunity! (btw Aliexpress shows delivery times of several months, but shipping is significantly faster (to Germany it takes about 10 days)).
 Link to the kit (also included in the BOM): https://www.aliexpress.com/item/1005003933709487.html
 
 
-### A word about *linear rails*.
+#### A word about *linear rails*.
 There's a reason I haven't made a rail version in a very long time: Rails are not better than rollers in ***terms of quality***. At least the cheap rails you can buy on AliExpress. The tolerances are not good, they don't last long and can give z artifacts that you don't have with rollers. From time to time I get messages that the x axis drops as soon as the power is turned off. Every time that happens the mod uses rails. And like almost of those has cheap china rails. The problem with these cheap rails is that there is no friction at all, no tension and the Z axis is very poorly guided. The little Z motor has to carry all the weight because the rails are so loose they can't take any load. 
 You also have to take care of the rails, lubricate and clean them from time to time, and make sure they don't leak. So you will spend a lot of money on a set of rails if you want good rails. Plus lubricants, cleaners, etc. Also, mounting the rails is more complicated. With wheels, you spent almost nothing on a new wheel, put it on, and you are good to go.
 So I recommend trying wheels first and if you still want rails, you just need to print two small adapters to install the rails. Keep things simple ;)
-
-### Print settings
-All Parts can be printed without support. Keep the orientation for best results. Yes, you can use PLA but no, you shouldn’t use PLA. I used PETG for the unenclosured, ABS for the enclosured printer. Suggested print settings: 50% Infill, 5 Walls/Top-Bottom layer.
-Good luck and happy printing!
-
-### Find the right STL files:
-*The V3.x means the current version. There may be some changes compared to the older versions. If you’re using an older version that’s totally fine.*
-I know this might be a bit cinfusing but there will be an interactive guide soon! 
-Check the Bom for a list of printed parts you need. If you can't print the parts yourself, you may find a set on my Discord.
-If you like to have a minimum height of the printer (e.g. Enclosure) then please use the rotated version. Theres also a version with an extra bearing (e.g. "1_transmission_rotated_bearing.stl") to support the rod as much as possible.*
-
-- #### Bowden Setup
-  For a stock Ender 3, please use the 1_LeftV3.x_Bowden **or** 1_RightV3.x_Bowden. (Left for stock extruder position)
-
-- #### Direct Drive Setup
-  For a DDE setup, please use 1_LeftV3.x **and** 1_RightV3.x.
-
-- #### Normal V-Wheels/Rollers
-  Just use the files from the "V3" folder.
-
-- #### MGN-Rails
-  You need the files from the "V3_MGN" folder **in addition** to the V3 folder. But you do not need the printed spacers ("3_Spacer2.stl"). (Note: MGN_9H files in the V3_extras folder)
-
-- #### Dual Z G34
-  For a dual Z setup with two z motors use the files from the "Dual Z" folder **instead** of the transmission and top parts from the V3 folder. The rest is still the same, works with V-Wheels and MGN-Rails. See BOM for more details.
   
-### How to use the toothed idlers
+#### How to use the toothed idlers
 You have to remove the flage of the toothed idlers, otherwise they would get in contact with the profile.
 
 <img src="_ignore/Pictures/toothed_Idlers.png" width="300"/>
 
-## Thank you Voron
+### Acknowledgements
+I would like to thank everyone who supported this project, especially *Guffy* and the *Awesome Helpers* from my Discord! 
+Also a big thank you to my mate Deutherius who helped me with the initial setup of this mod!
+
+#### Thank you Voron
 This mod uses a modified transmission from the Voron 2.2. I made a different frame to mount it on the Ender 3. The tensionerarm and the tensionerring are from the Voron guys. These aren’t my work!!! The mount and the 80T gear are made by myself. Because the parts will be updated regularly, you can find the STLs I used on GitHub 
 
-## THANK YOU VERY MUCH!
+#### THANK YOU VERY MUCH!
 I want to thank everyone who has helped me over the last months with feedback, support and confidence. Without you this mod would not have become sich a thing! Thanks also to Creality for the Golbal DIY Contest. I am very proud to announce that I could reach the 3rd place with his mod.
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/_ignore/Pictures/Contest.jpg" width="350">
 
 Many, many, many thanks if you want to support me and my projects. I'm really happy about that and it helps me to pay for all the testing. All designs are free and will remain so, so please don't feel forced to donate anything :)
  
-<a href="https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE">
+<a href="https://paypal.me/donationskevinakasam?">
          <img alt="Donate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png"
          width=150" >
       </a>
@@ -113,8 +95,6 @@ https://youtu.be/bxTwFCPEIgg
 https://youtu.be/oUdoJUs8Zcg
 
 ## Keybak
-#### Files are currently untested! Please give me feedback when you installed the Keybak (Discord: kevinakasam#2097)
-
 <img src="_ignore/Pictures/KeyBack_1.png" width="300"/> <img src="_ignore/Pictures/KeyBack_2.png" width="300"/>
 
 Keybak system similar to the Switchwire design.
@@ -122,7 +102,7 @@ The files were remixed from the Switchwire CAD file.
 For licensing reasons, all Keybak files are uploaded to GitHub only!
 Idea from Voron team, thanks!
 
-Info: Because of the transmission it is not necessary to install a Keybak system.
+**Info: Because of the transmission it is not necessary to install a Keybak system.**
 The 1:5 ratio increases the holding force of the motor so that it can hold the X axis up even when it is powered off.
 A correctly adjusted belt tension is important for this.
 If you are using the V-Wheels it is also important that they are installed correctly (See Troubleshooting).
@@ -183,6 +163,7 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
+21.09.2022: Release of the Website and the new instructions!
 23.08.2022: Big Update! Release of the **V3.6** files. 
 - Almost all Parts got an update:
 	- Housing for the tensioner on the plates is thicker now
@@ -243,4 +224,4 @@ Probably the most asked question, but I can promise that your axis does not have
 26.02.2021: Started Changelog.
 
 --- 
-Donation Link: https://www.buymeacoffee.com/kevinakasam or via [Paypal](https://paypal.me/KevinOhlrich?country.x=DE&locale.x=de_DE) 
+Donation Link: https://www.buymeacoffee.com/kevinakasam or via [Paypal](https://paypal.me/donationskevinakasam?) 
