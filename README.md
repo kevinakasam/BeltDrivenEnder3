@@ -163,7 +163,8 @@ Probably the most asked question, but I can promise that your axis does not have
 
 ---
 ### Changelog:
-21.09.2022: Release of the Website and the new instructions!
+21.09.2022: Release of the [Website](https://www.kevinakasam.com/belt-driven-ender-3/) and the new instructions!
+
 23.08.2022: Big Update! Release of the **V3.6** files. 
 - Almost all Parts got an update:
 	- Housing for the tensioner on the plates is thicker now
