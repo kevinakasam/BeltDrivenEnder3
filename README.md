@@ -42,7 +42,7 @@ My Ender 3 always had problems with the Z-axis, which were caused by a bent and 
 This mod also solves the problem of a hanging x-axis on the right side. Because of the two belts, both sides run synchronously and can also be adjusted very precisely.
 
 #### What this Mod can't do:
-This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://github.com/AndrewEllis93/Print-Tuning-Guide), its very well made (Works also for non Voron Printers and Marlin machines). 
+This mod can't solve problems that are caused by an inconsitent extrusion. Inconsitent extrusion means an untuned Flowrate/Extrusion multiplier and causes very inconsitent layers --> this looks like the picture below. To get rid of that you should tune all extrusion related values, like Flowrate an Linear Advance (Marlin) / Pressure Advance (Klipper). Take a look at this [tuning guide](https://ellis3dp.com/Print-Tuning-Guide/), its very well made (Works also for non Voron Printers and Marlin machines). 
 
 <img src="_ignore/Pictures/print_examples/bad_flow.JPEG" width="250"/> <img src="_ignore/Pictures/print_examples/bad_flow2.JPEG" width="250"/>
 
