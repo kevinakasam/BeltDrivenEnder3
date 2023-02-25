@@ -165,17 +165,17 @@ Probably the most asked question, but I can promise that your axis does not have
 ### Changelog:
 25.02.2023: Update? It's been a while! Release of the **V3.7** files.
 - Plate update
-      - The right plate got an extra hole to access the M4 screw that holds the metal plate to the X axis.
-      - The holes for the hex nut got a bridging pattern so no more filament can curl there.
+	-The right plate got an extra hole to access the M4 screw that holds the metal plate to the X axis.
+	- The holes for the hex nut got a bridging pattern so no more filament can curl there.
 - Transmission Update
-      - All the transmission bodies got a cutout to make it easier to tighten the motor shaft grub screw.
-      - Utralow and Dual Z transmissions have also received a hole to access the 20T pulley grub screws.
+	- All the transmission bodies got a cutout to make it easier to tighten the motor shaft grub screw.
+	- Utralow and Dual Z transmissions have also received a hole to access the 20T pulley grub screws.
 - Update of the lower parts
-      - The small hill that holds the 3x14mm pin in place is now much smaller and it should be much easier to insert the pins
+	- The small hill that holds the 3x14mm pin in place is now much smaller and it should be much easier to insert the pins
 - V3_Extras update
-      - Added a version with heat inserts that replaces the M3 hex nuts with heat inserts.
-      - MGN 12C support
-      - Printer adaptations for Artillery Hornet and Tevo Tarantula Pro
+	- Added a version with heat inserts that replaces the M3 hex nuts with heat inserts.
+	- MGN 12C support
+	- Printer adaptations for Artillery Hornet and Tevo Tarantula Pro
 
 21.09.2022: Release of the Website and the new instructions!
 
