@@ -86,13 +86,13 @@ Many, many, many thanks if you want to support me and my projects. I'm really ha
 <img src="_ignore/Pictures/print_examples/Tube.JPEG" width="300"/> <img src="_ignore/Pictures/print_examples/Tube2.JPEG" width="300"/>
 
 ## Finally the video tutorials are finished!
-[![Video Tutorial](_ignore/Pictures/thumbnailwheel.jpg)](https://youtu.be/bxTwFCPEIgg)
-
-https://youtu.be/bxTwFCPEIgg
-
-[![Video Tutorial](_ignore/Pictures/ThumbnailMGN.jpg)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
+[![Video Tutorial](_ignore/Pictures/thumbnailwheel.jpg)](https://youtu.be/oUdoJUs8Zcg)
 
 https://youtu.be/oUdoJUs8Zcg
+
+[![Video Tutorial](_ignore/Pictures/ThumbnailMGN.jpg)](https://youtu.be/bxTwFCPEIgg)
+
+https://youtu.be/bxTwFCPEIgg
 
 ## Keybak
 <img src="_ignore/Pictures/KeyBack_1.png" width="300"/> <img src="_ignore/Pictures/KeyBack_2.png" width="300"/>
