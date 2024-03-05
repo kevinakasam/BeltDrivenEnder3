@@ -24,6 +24,13 @@ Please visit my [website](https://www.kevinakasam.com/belt-driven-ender-3/) to s
          width=250" >
       </a>
 
+### ❤️ Support my work
+
+All my work is 100% Open-Source and free for everyone to use. But designing and developing all these mods takes a lot of time and effort, so if you appreciate my work and would like to support it and also help cover the costs of gettings the mods perfect, you can use one of the following links. Thanks a lot 🤍
+
+<a href="https://www.buymeacoffee.com/kevinakasam" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://paypal.me/donationskevinakasam?" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png" alt="Donate via Paypal" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ### Further notes
 #### Versions vs. Variants
 This mod now exists in the 3rd version (V3). The _ignore folder contains all the files for the old versions (V1 and V2). The current version (V3) exists in 3 variations:V-Wheels, MGN-12h and Dual Z (Dual Z works with both variants V-Wheels and MGN-12h). In addition, you can choose between the normal and ultralow version. I hope this clarifies the confusion between the versions and variants. Again please use the config finder on my [website](https://www.kevinakasam.com/belt-driven-ender-3/) to configure your individual setup.
@@ -73,26 +80,19 @@ I want to thank everyone who has helped me over the last months with feedback, s
 
 <img src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/_ignore/Pictures/Contest.jpg" width="350">
 
-Many, many, many thanks if you want to support me and my projects. I'm really happy about that and it helps me to pay for all the testing. All designs are free and will remain so, so please don't feel forced to donate anything :)
- 
-<a href="https://paypal.me/donationskevinakasam?">
-         <img alt="Donate" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png"
-         width=150" >
-      </a>
-
 ## Print Showcase
 <img src="_ignore/Pictures/print_examples/Benchy.jpg" width="300"/> <img src="_ignore/Pictures/print_examples/Benchy_1.jpg" width="300"/>
 <img src="_ignore/Pictures/print_examples/Benchy_Blue.png" width="300"/> <img src="_ignore/Pictures/print_examples/Cube.JPEG" width="300"/>
 <img src="_ignore/Pictures/print_examples/Tube.JPEG" width="300"/> <img src="_ignore/Pictures/print_examples/Tube2.JPEG" width="300"/>
 
 ## Finally the video tutorials are finished!
-[![Video Tutorial](_ignore/Pictures/thumbnailwheel.jpg)](https://youtu.be/bxTwFCPEIgg)
-
-https://youtu.be/bxTwFCPEIgg
-
-[![Video Tutorial](_ignore/Pictures/ThumbnailMGN.jpg)](https://www.youtube.com/watch?v=oUdoJUs8Zcg)
+[![Video Tutorial](_ignore/Pictures/thumbnailwheel.jpg)](https://youtu.be/oUdoJUs8Zcg)
 
 https://youtu.be/oUdoJUs8Zcg
+
+[![Video Tutorial](_ignore/Pictures/ThumbnailMGN.jpg)](https://youtu.be/bxTwFCPEIgg)
+
+https://youtu.be/bxTwFCPEIgg
 
 ## Keybak
 <img src="_ignore/Pictures/KeyBack_1.png" width="300"/> <img src="_ignore/Pictures/KeyBack_2.png" width="300"/>
